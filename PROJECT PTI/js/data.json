@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Flags-Coldplay",
+        "artist": "Coldplay",
+        "img": "flags",
+        "src": "flags"
+    },
+    {
+        "name": "Mahalini-Sial",
+        "artist": "Mahalini",
+        "img": "sial",
+        "src": "Sial"
+      },
+      {
+        "name": "Viva la Vida-Coldplay",
+        "artist": "Coldplay",
+        "img": "Coldplay",
+        "src": "Coldplay"
+      },
+      {
+        "name": "Coloratura-Coldplay",
+        "artist": "Coldplay",
+        "img": "coloratura",
+        "src": "coloratura"
+      },
+      {
+        "name": "Danza Kuduro- Don Omar",
+        "artist": "Don Omar",
+        "img": "Danza",
+        "src": "Danza"
+      },
+      {
+        "name": "Komang-Raim Laude",
+        "artist": "Raim Laude",
+        "img": "komang",
+        "src": "klomang"
+      },
+      {
+        "name": "Low-SZA",
+        "artist": "SZA",
+        "img": "low",
+        "src": "low"
+      },
+      {
+        "name": "The hils-The Weekend",
+        "artist": "The Weekend",
+        "img": "the hills",
+        "src": "the hills"
+      },  
+      {
+        "name": "Limbo-Keshi",
+        "artist": "Keshi",
+        "img": "limbo",
+        "src": "limbo"
+      },
+      {
+      "name": "It Will Rain-Bruno Mars",
+      "artist": "Bruno Mars",
+      "img": "Bruno Mars",
+      "src": "Bruno Mars"
+    }
+  ]
+  
